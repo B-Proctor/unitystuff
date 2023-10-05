@@ -1,8 +1,11 @@
 Using the Optimized Main Menu Script
+
 Introduction
+----
 This document explains how to use the optimized Main Menu script in your Unity project. The script creates a feature-rich main menu for your game, including buttons for playing, accessing options, viewing credits, and exiting the game. Follow these steps to integrate and configure the script for your project.
 
 Prerequisites
+---
 Before you begin, ensure that you have the following:
 
 Unity installed on your computer.
@@ -10,6 +13,7 @@ A Unity project where you want to implement the main menu.
 The provided optimized Main Menu script (or a similar script) added to your project.
 Integrating the Script
 Open your Unity project.
+----
 
 Locate or create a GameObject that represents your main menu. This GameObject will hold the Main Menu script and UI elements.
 
